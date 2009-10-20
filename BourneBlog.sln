@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BourneBlog.Web", "src\BourneBlog.Web\BourneBlog.Web.csproj", "{345F4BCD-5C85-4546-84E2-2E4D9B796D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BourneBlog.App", "src\BourneBlog.App\BourneBlog.App.csproj", "{F74B4E4A-4B5C-4349-A840-714ACE90509F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345F4BCD-5C85-4546-84E2-2E4D9B796D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345F4BCD-5C85-4546-84E2-2E4D9B796D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345F4BCD-5C85-4546-84E2-2E4D9B796D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345F4BCD-5C85-4546-84E2-2E4D9B796D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74B4E4A-4B5C-4349-A840-714ACE90509F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74B4E4A-4B5C-4349-A840-714ACE90509F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74B4E4A-4B5C-4349-A840-714ACE90509F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74B4E4A-4B5C-4349-A840-714ACE90509F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
